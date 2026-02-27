@@ -13,6 +13,7 @@ body {
   min-height: 100vh;
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
+  background: #1f2937;
 }
 
 /* CABECERA GENERAL */
@@ -145,11 +146,19 @@ footer {
   margin-top: 20px;
 }
 
-.site-footer a{
-  color: orange;
-  text-decoration: none;
+.site-footer {
+    margin-top: 80px;
+    background: #EEF4F8;
+    color: black;
+    padding: 40px 20px;
+    text-align: center;
 }
 
-.site-footer a:visited{
-  color: rgb(188, 129, 20);
+.site-footer a {
+    color: #ffb703;
+    text-decoration: none;
+}
+
+.site-footer p {
+    margin: 10px 0;
 }
