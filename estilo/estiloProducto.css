@@ -19,7 +19,7 @@ main {
 }
 
 .hero p {
-    font-size: 18px;
+    font-size: 20px;
     color: black;
     max-width: 700px;
     margin: auto;
@@ -33,7 +33,7 @@ main {
     border-radius: 16px;
     box-shadow: 0 8px 25px rgba(0,0,0,0.06);
     margin-bottom: 40px;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.6;
 }
 
@@ -50,7 +50,7 @@ main {
 
 .descripcion li {
     margin-bottom: 12px;
-    font-size: 18px;
+    font-size: 20px;
     padding-left: 10px;
 }
 
