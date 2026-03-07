@@ -7,15 +7,15 @@ main {
 .hero {
     background-color: #ecffd6;
     max-width: 900px;
-     margin: 30px auto;
+    margin: 60px auto 30px auto;
     padding: 40px;
-    border-radius: 20px;
+    border-radius: 25px;
     text-align: center;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
 }
 
 .hero h2 {
-    font-size: 2rem;
+    font-size: 2.2rem;
     margin-bottom: 20px;
     color: #2e7d32;
 }
@@ -41,17 +41,14 @@ main {
 
 .descripcion p {
     margin-bottom: 15px;
+    font-size: 1.2rem; 
 }
 
 .descripcion ul {
     margin-left: 20px;
+    font-size: 1.2rem; 
 }
 
 .descripcion li {
-    margin-bottom: 10px;
-}
-
-.descripcion.activa {
-    background-color: #c8e6c9;
-    transition: 0.3s;
+    margin-bottom: 20px;
 }
